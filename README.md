@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/HappyPot/approval-ui.svg?branch=master)](https://travis-ci.com/HappyPot/approval-ui)
 <p align="center">
     <a href="https://github.com/HappyPot/approval-ui">
         <img width="200" src="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png">
