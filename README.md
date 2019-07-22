@@ -23,7 +23,7 @@ You can find more info [on the website](hhttps://github.com/HappyPot/approval-ui
 | [HappyPot](https://github.com/HappyPot/eapproval-ui) | <img width="60" src="https://avatars0.githubusercontent.com/u/22255025?s=400&u=578b0fca8f1e72bb49632dc155ed597b90bdeed4&v=4"> |
 
 ## DOCS
-[点击查看文档](https://github.com/HappyPot/approval-ui/blob/master/approval-ui.md)
+[Click to view the document](https://github.com/HappyPot/approval-ui/blob/master/approval-ui.md)
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
