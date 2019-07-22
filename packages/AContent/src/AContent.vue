@@ -2,7 +2,7 @@
   <div class="approval_people">
     <div class="approval_people_title">{{title}}</div>
     <div class="approval_people_body">
-      <slot name="scoped"></slot>
+      <slot></slot>
     </div>
   </div>
 </template>
@@ -14,7 +14,6 @@ export default {
   props: {
     //标题
     title: {
-      required: true,
       default: "申请信息"
     }
   }

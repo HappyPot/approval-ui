@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
-import eapproval from './../packages/index'
+import approval from './../packages/index'
 import iView from 'iview';
 import 'iview/dist/styles/iview.css';
 import "./registerServiceWorker";
@@ -10,7 +10,7 @@ import "./registerServiceWorker";
 // 导入组件库
 // 注册组件库
 Vue.use(iView);
-Vue.use(eapproval)
+Vue.use(approval)
 
 Vue.config.productionTip = false;
 

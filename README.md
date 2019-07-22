@@ -14,7 +14,7 @@ Using npm:
 npm install approval-ui --save
 ```
 
-You can find more info [on the website](https://www.iviewui.com/docs/guide/install-en).
+You can find more info [on the website](hhttps://github.com/HappyPot/approval-ui).
 
 ## Major Contributors
 

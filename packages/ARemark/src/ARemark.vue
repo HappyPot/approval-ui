@@ -44,7 +44,7 @@ export default {
       this.$emit("on-blur", { event: event, val: this.currentValue });
     },
     handleChange() {
-      this.$emit("on-Change", { event: event, val: this.currentValue });
+      this.$emit("on-change", { event: event, val: this.currentValue });
     }
   }
 };
