@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/HappyPot/approval-ui">
-        ![](https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png)
+        <img width="200" src="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png">
     </a>
 </p>
 approval-ui
