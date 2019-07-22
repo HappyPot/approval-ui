@@ -3,8 +3,8 @@
         ![](https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png)
     </a>
 </p>
-eapproval-ui
-    <h3>A simple UI Toolkit built on Vue.js and iview.</h3>
+approval-ui
+    <h6>A simple UI Toolkit built on Vue.js and iview.</h6>
 </h1>
 
 ## Install
