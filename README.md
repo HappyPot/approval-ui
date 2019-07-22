@@ -4,10 +4,11 @@
         <img width="200" src="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png">
     </a>
 </p>
+ <img width="200" src="https://travis-ci.com/HappyPot/approval-ui.svg?branch=master">
+
 [![Build Status](https://travis-ci.com/HappyPot/approval-ui.svg?branch=master)](https://travis-ci.com/HappyPot/approval-ui)
 approval-ui
     <p>A simple UI Toolkit built on Vue.js and iview.</p>
-</h1>
 
 ## Install
 
