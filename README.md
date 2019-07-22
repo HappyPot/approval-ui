@@ -4,7 +4,7 @@
     </a>
 </p>
 approval-ui
-    <h6>A simple UI Toolkit built on Vue.js and iview.</h6>
+    <p>A simple UI Toolkit built on Vue.js and iview.</p>
 </h1>
 
 ## Install
