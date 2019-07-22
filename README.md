@@ -1,17 +1,22 @@
 <p align="center">
     <a href="https://github.com/HappyPot/approval-ui">
-        <img width="200" src="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png">
+        ![](https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png)
     </a>
 </p>
 eapproval-ui
     <h3>A simple UI Toolkit built on Vue.js and iview.</h3>
 </h1>
 
-### Install approval-ui
+## Install
 
 Using npm:
 ```
 npm install approval-ui --save
+```
+Usage in Vue
+```
+import approval from 'approval-ui'
+Vue.use(approval)
 ```
 
 You can find more info [on the website](hhttps://github.com/HappyPot/approval-ui).
