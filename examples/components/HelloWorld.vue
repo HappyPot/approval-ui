@@ -112,7 +112,7 @@ ul li:hover a {
   color: #7656ff;
 }
 header {
-  width: 1140px;
+  width: 1040px;
   box-sizing: border-box;
   border-bottom: 1px solid #dcdfe6;
   margin: 0 auto !important;
