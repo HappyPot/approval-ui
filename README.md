@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="hhttps://github.com/HappyPot/approval-ui">
+    <a href="https://github.com/HappyPot/approval-ui">
         <img width="200" src="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.png">
     </a>
 </p>
@@ -21,6 +21,9 @@ You can find more info [on the website](hhttps://github.com/HappyPot/approval-ui
 | Name                                                 | Avatar                                                                                                                        |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | [HappyPot](https://github.com/HappyPot/eapproval-ui) | <img width="60" src="https://avatars0.githubusercontent.com/u/22255025?s=400&u=578b0fca8f1e72bb49632dc155ed597b90bdeed4&v=4"> |
+
+## DOCS
+<a href="https://github.com/HappyPot/approval-ui/blob/master/approval-ui.md">点击查看文档</a>
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
