@@ -11,7 +11,7 @@
             <a href="https://github.com/HappyPot/approval-ui">github</a>
           </li>
           <li>
-            <a href="https://www.npmjs.com/package/approval-ui">NPM</a>
+            <a href="https://www.npmjs.com/package/approval-ui">npm</a>
           </li>
         </ul>
       </nav>
@@ -35,6 +35,17 @@
     <ARemark class="item" v-model="text" ref="aremark" @on-blur="handelBlur"></ARemark>
     <p>ALog组件</p>
     <ALog class="item" :columns="columns1" :data="approvalList"></ALog>
+    <footer>
+      <div class="footer_box">
+        <div class="footer_box_left">
+          <h4>获取更多</h4>
+          <div class="code_box">
+            <img class="code" src="../assets/code.jpg" />
+            <p>关注微信公众号</p>
+          </div>
+        </div>
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -116,9 +127,9 @@ header {
   box-sizing: border-box;
   border-bottom: 1px solid #dcdfe6;
   margin: 0 auto !important;
-  height: 80px;
+  height: 66px;
   box-sizing: border-box;
-  line-height: 80px;
+  line-height: 66px;
 }
 header > img {
   width: 146px;
@@ -156,6 +167,31 @@ header > img {
   display: block;
   font-size: 18px;
   margin: 10px 0 5px;
+}
+footer {
+  background: #f9f8ff;
+  width: 100%;
+  padding: 40px 150px !important;
+  box-sizing: border-box;
+  height: auto;
+}
+.footer_box {
+  width: 1040px;
+  margin: 0 auto;
+}
+.code {
+  width: 100px;
+  height: 100px;
+}
+.footer_box_left h4 {
+  font-size: 18px;
+  padding-left: 13.1px;
+}
+.code_box {
+  width: 100px;
+}
+.code_box p {
+  text-align: center;
 }
 </style>
 
