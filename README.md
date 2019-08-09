@@ -7,7 +7,7 @@
 
 [![Build Status](https://travis-ci.com/HappyPot/approval-ui.svg?branch=master)](https://travis-ci.com/HappyPot/approval-ui)
 
- <a href="https://github.com/HappyPot/approval-ui">点击访问官网</a>
+ <a href="https://happypot.github.io/approval-ui">点击访问官网</a>
 
 ## approval-ui
 
