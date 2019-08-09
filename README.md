@@ -7,9 +7,11 @@
 
 [![Build Status](https://travis-ci.com/HappyPot/approval-ui.svg?branch=master)](https://travis-ci.com/HappyPot/approval-ui)
 
+ <a href="https://github.com/HappyPot/approval-ui">点击访问官网</a>
+
 ## approval-ui
 
-    A simple UI Toolkit built on Vue.js and iview
+    A simple UI Toolkit built on Vue.js and iview 
 
 ## Install
 
