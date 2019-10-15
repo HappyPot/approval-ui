@@ -30,22 +30,27 @@ export default {
     // 项目名称
     projectName: {
       required: true,
+      type: String,
       default: ""
     },
     // 日期
     applyDate: {
+      type: String,
       default: ""
     },
     //单号
     jobNumber: {
+      type: String,
       default: ""
     },
     // 显示标题
     label1: {
+      type: String,
       default: "提交日期"
     },
     // 显示标题
     label2: {
+      type: String,
       default: "申请单号"
     }
   },

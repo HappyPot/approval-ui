@@ -25,10 +25,7 @@ export default {
     event: "input"
   },
   props: {
-    currentValue: {
-      type: [String, Number],
-      default: ""
-    }
+    currentValue: [String, Number]
   },
   data() {
     return {

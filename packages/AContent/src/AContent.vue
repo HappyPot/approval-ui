@@ -14,6 +14,7 @@ export default {
   props: {
     //标题
     title: {
+      type: String,
       default: "申请信息"
     }
   }
