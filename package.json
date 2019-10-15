@@ -1,6 +1,6 @@
 {
   "name": "approval-ui",
-  "version": "0.1.31.1",
+  "version": "0.1.31",
   "description": "基于iview的UI模块组",
   "main": "lib/approval.umd.min.js",
   "keyword": "approval approval-ui",
